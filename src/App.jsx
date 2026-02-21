@@ -22,5 +22,6 @@ function App() {
     </Router>
   );
 }
+console.log("test");
 
 export default App;
