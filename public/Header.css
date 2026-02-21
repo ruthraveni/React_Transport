@@ -1,0 +1,19 @@
+.navbar {
+  margin: 20px auto;
+  padding: 15px;
+  background-color: #1e1e1e;  
+  text-align: center;
+  border-radius: 10px;
+}
+
+.nav-item {
+  color: white;
+  margin: 0 20px;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-item:hover {
+  color: yellow;
+}
