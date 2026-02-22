@@ -1,16 +1,14 @@
-# React + Vite
+This project is a simple Transport Navigation Application built using React.js and React Router. 
+The application demonstrates routing functionality by navigating between different transport components such as Car, Truck, and Bike.
+The project includes a navigation bar that allows users to switch between different pages without reloading the browser. 
+React Router is used to handle client-side routing and manage different routes within the application.
+When the application loads, the Car component is displayed by default.
+Users can navigate to the Truck and Bike pages using the navigation links provided in the NavBar component.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+<img width="975" height="683" alt="image" src="https://github.com/user-attachments/assets/fa090a3c-ddf8-4f73-9aa0-2dd58d66980a" />
+<img width="1012" height="684" alt="image" src="https://github.com/user-attachments/assets/3aa53ae8-8a8b-4aff-9b5d-746e2f312446" />
+<img width="1007" height="682" alt="image" src="https://github.com/user-attachments/assets/8c8c1b70-99ca-4c20-8a77-6d386526e38f" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
