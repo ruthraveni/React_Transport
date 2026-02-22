@@ -8,7 +8,9 @@ Users can navigate to the Truck and Bike pages using the navigation links provid
 
 
 
-<img width="975" height="683" alt="image" src="https://github.com/user-attachments/assets/fa090a3c-ddf8-4f73-9aa0-2dd58d66980a" />
-<img width="1012" height="684" alt="image" src="https://github.com/user-attachments/assets/3aa53ae8-8a8b-4aff-9b5d-746e2f312446" />
-<img width="1007" height="682" alt="image" src="https://github.com/user-attachments/assets/8c8c1b70-99ca-4c20-8a77-6d386526e38f" />
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/d85a883e-a48a-403f-99d0-7e7d33df4943" />
+<img width="690" height="646" alt="image" src="https://github.com/user-attachments/assets/2ef6d861-5bc0-4420-a9bb-1f850d5be11c" />
+<img width="758" height="648" alt="image" src="https://github.com/user-attachments/assets/f481f866-58e5-400e-888d-15864d37f6d8" />
+
+
 
